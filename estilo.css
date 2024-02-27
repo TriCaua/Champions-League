@@ -4,4 +4,6 @@ body{
 
 }
 
-.cabecalho
+    .cabecalho{
+        background-color: whitesmoke;
+    }
