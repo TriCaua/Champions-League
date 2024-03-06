@@ -16,3 +16,6 @@ body{
         align-items: center;
         justify-content: space-around;
     }
+    .cabecalho-imagem{
+        width: 20%;
+    }
