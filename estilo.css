@@ -29,4 +29,5 @@ body{
 
     .secao1{
         display: flex;
+        align-items: center;
     }
