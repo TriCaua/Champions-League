@@ -29,7 +29,9 @@ body{
 
     .secao1{
         display: flex;
-        align-items: inherit;
+        align-items: inherit
+        
+        ;
         justify-content: space-between;
     }
 
