@@ -5,13 +5,13 @@ padding:0;
 }
 
 body{
-    background-color:#ffffff;
+    background-color:#0003af;
    color: black; 
 
 }
 
     .cabecalho{
-        background-color: rgb(17, 0, 173);
+        background-color: rgb(255, 255, 255);
         display:flex;
         align-items: center;
         justify-content: space-between;
